@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428209222546",
+    "project_id": "money-management-project-6b758",
+    "storage_bucket": "money-management-project-6b758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428209222546:android:9a0a7d1dc1f91cb3bb074b",
+        "android_client_info": {
+          "package_name": "com.jeremia.money_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428209222546-qubvsq9skdehv2jlldrmbufhoe2kflfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChCJDdP9tkPWqdAZxWCtE-AuokBwLcIgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428209222546-qubvsq9skdehv2jlldrmbufhoe2kflfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
